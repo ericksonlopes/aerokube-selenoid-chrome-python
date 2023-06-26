@@ -11,8 +11,6 @@
           "LANG=pt_BR.UTF-8",
           "LANGUAGE=pt_BR:en",
           "LC_ALL=pt_BR.UTF-8",
-          "HTTP_PROXY=IP_DO_PROXY:PORTA",
-          "HTTPS_PROXY=IP_DO_PROXY:PORTA",
           "NO_PROXY=selenoid,127.0.0.1"
         ]
       },
@@ -25,8 +23,6 @@
           "LANG=pt_BR.UTF-8",
           "LANGUAGE=pt_BR:en",
           "LC_ALL=pt_BR.UTF-8",
-          "HTTP_PROXY=IP_DO_PROXY:PORTA",
-          "HTTPS_PROXY=IP_DO_PROXY:PORTA",
           "NO_PROXY=selenoid,127.0.0.1"
         ]
       }
