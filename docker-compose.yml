@@ -1,0 +1,21 @@
+version: "3.8"
+
+services:
+  selenoid-chrome:
+      image: "selenoid/chrome:latest"
+      network_mode: bridge
+      restart: always
+      volumes:
+        - "/var/run/docker.sock:/var/run/docker.sock"
+      depends_on:
+        - selenoid
+
+  selenoid:
+    image: "aerokube/selenoid"  # Imagem selenoid/firefox adicionada
+    network_mode: bridge
+    restart: always
+    ports:
+      - "4444:4444"
+    volumes:
+      - "./config:/etc/selenoid/"
+      - "/var/run/docker.sock:/var/run/docker.sock"
