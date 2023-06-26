@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-O projeto consiste em um exemplo de configuração do Selenium com Docker Compose, juntamente com um código Python para se
+O projeto consiste em um exemplo de configuração do WebDriver Remoto no Docker para o Selenium, juntamente com um código Python para se
 conectar e interagir com o navegador.
 
 A configuração utiliza o Selenoid para criar instâncias isoladas de navegadores e o Docker Compose para orquestrar os
