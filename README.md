@@ -15,7 +15,6 @@ Antes de executar o projeto, certifique-se de ter os seguintes pré-requisitos i
 
 - Python (versão 3.6+)
 - Docker
-- Docker Compose
 
 ## Instalação
 
