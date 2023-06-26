@@ -63,4 +63,4 @@ Este projeto está licenciado sob a licença [MIT](https://opensource.org/licens
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, entre em contato com [ofc.erickson@gmail.com](mailto:ofc.erickson@gmail.com).
+Se você tiver alguma dúvida ou sugestão, entre em contato no [linkedin](https://www.linkedin.com/in/ericksonlopes/).
