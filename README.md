@@ -40,7 +40,7 @@ Antes de executar o projeto, certifique-se de ter os seguintes pré-requisitos i
 
 ## Execução
 
-1. Inicie os serviços do Docker Compose:
+1. Inicie os containers do Docker Compose:
 
    ```bash
    docker-compose up -d
